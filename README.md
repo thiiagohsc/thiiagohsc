@@ -14,4 +14,3 @@
 - Email: thiiago.dev@gmail.com
 - Instagram: @thiiagohsc
 - GitHub: https://github.com/thiiagohsc
-- Whatsapp: https://api.whatsapp.com/send?phone=5581998001108
