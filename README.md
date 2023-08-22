@@ -12,5 +12,4 @@
 
 - Linkedin: https://www.linkedin.com/in/thiiagohsc/
 - Email: thiiago.dev@gmail.com
-- Instagram: @thiiagohsc
 - GitHub: https://github.com/thiiagohsc
