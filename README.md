@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um estudante do curso Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estou focado no desenvolvimento Full-Stack. Meu objetivo é criar soluções digitais inovadoras que possam fazer a diferença no mundo. Estou constantemente aprendendo e buscando desafios para aprimorar minhas habilidades.
+Sou um estudante do curso Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estou focado no desenvolvimento Full-Stack. Meu objetivo é criar soluções inovadoras que possam fazer a diferença no mundo. Estou constantemente aprendendo e buscando desafios para aprimorar minhas habilidades.
 
 
 ## 🌐 Socials:
