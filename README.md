@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante apaixonado por tecnologia, buscando ampliar meus conhecimentos e habilidades na área. Atualmente cursando Análise e Desenvolvimento de Sistemas, além de estar estudando e praticando desenvolvimento web, incluindo HTML, CSS, JavaScript e outras tecnologias relacionadas. Acredito em soluções inovadoras e busco sempre aprimorar meus conhecimentos para atender às necessidades e desafios do mercado.
+Sou um estudante do curso Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estou focado no desenvolvimento Full-Stack. Meu objetivo é criar soluções digitais inovadoras que possam fazer a diferença no mundo. Estou constantemente aprendendo e buscando desafios para aprimorar minhas habilidades.
 
 
 ## 🌐 Socials:
