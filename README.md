@@ -1,7 +1,3 @@
-# 💫 About Me:
-Sou um estudante do curso Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e estou focado no desenvolvimento Full-Stack. Meu objetivo é criar soluções inovadoras que possam fazer a diferença no mundo. Estou constantemente aprendendo e buscando desafios para aprimorar minhas habilidades.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiiagohsc) 
 
