@@ -1,9 +1,10 @@
-## Boas vindas ao meu perfil 😀
+<h1>Salve! 👋</h1>
 
-Meu nome é Thiago Henrique e sou completamente apaixonado por tecnologia e games. <br>
-Atualmente estou cursando Analise e Desenvolvimento de Sistemas. Tenho uma forte paixão por desenvolvimento web e estou constantemente praticando e aprimorando meus conhecimentos.
-
-<br>
+## My name is Thiago Cabral
+(HTML | CSS | Javascript | C++ | Docker | AWS) 🚀
+- 🎓 Student of the Systems Analysis and Development
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
 <!-- GITHUB STATUS -->
 <div align="center">
