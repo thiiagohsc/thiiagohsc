@@ -1,7 +1,7 @@
 <h1>Salve! 👋</h1>
 
 ## My name is Thiago Cabral
-(HTML | CSS | Javascript | C++ | Docker | AWS) 🚀
+(HTML | CSS | Javascript | Typescript | C++ | Docker | AWS) 🚀
 - 🎓 Student of the Systems Analysis and Development
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
